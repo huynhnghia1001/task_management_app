@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +33,7 @@
     &quot;accountId&quot;: &quot;201a07d0-faf1-41d6-bc69-8c3efd20f7cf&quot;
   }
 }</component>
+
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="php">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
@@ -145,17 +147,24 @@
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
       <path value="$PROJECT_DIR$/vendor/league/flysystem-local" />
       <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+
       <path value="$PROJECT_DIR$/vendor/laravel/sanctum" />
     </include_path>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
+    </include_path>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="2znigVs00bume4PQ6ttWgBammqT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
@@ -183,6 +192,27 @@
       <recent name="$PROJECT_DIR$/resources/views/front" />
     </key>
   </component>
+
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql_aurora"
+    ]
+  }
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner configuration_file="$PROJECT_DIR$/phpunit.xml" scope="XML" use_alternative_configuration_file="true" />
@@ -205,6 +235,7 @@
       <option name="presentableId" value="Default" />
       <updated>1752373349052</updated>
       <workItem from="1752373350118" duration="11749000" />
+
     </task>
     <servers />
   </component>
